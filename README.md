@@ -1,4 +1,4 @@
-# 🐟 SoLong - ¡Gracias por todos los peces!
+# 🐟 SoLong
 
 ## Descripción
 **SoLong** es un juego 2D sencillo donde controlas a un personaje (puede ser un delfín si te apetece o lo que prefieras). El objetivo es escapar del mapa después de recoger todos los coleccionables. Es un proyecto que te hará trabajar con gráficos, texturas y sprites usando la librería MiniLibX.
